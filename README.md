@@ -12,9 +12,9 @@ Binary Search Tree Aşamaları
 
 7
 
-   7
-  /
- 5
+  7
+ /
+5
  
     7
    /
