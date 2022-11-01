@@ -12,21 +12,25 @@ Binary Search Tree Aşamaları
 
 7
 
+
   7
  /
 5
- 
+
+
     7
    /
   5
  /
 1 
 
+
     7
    / \
   5   8
  /
 1 
+
 
     7
    / \
@@ -35,7 +39,8 @@ Binary Search Tree Aşamaları
 1  
  \
   3
-  
+
+
       7
      / \
     5   8
@@ -44,6 +49,7 @@ Binary Search Tree Aşamaları
    \
     3
 
+
       7
      / \
     5   8
@@ -52,6 +58,7 @@ Binary Search Tree Aşamaları
  / \
 0   3
 
+
       7
      / \
     5   8
@@ -59,6 +66,7 @@ Binary Search Tree Aşamaları
   1   6   9
  / \
 0   3
+
 
       7
      / \
